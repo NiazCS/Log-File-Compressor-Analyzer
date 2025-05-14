@@ -1,7 +1,4 @@
 // Huffman.h
-// niaz hussain
-// log-file compressor & analyzer
-// cst 202 – data structures
 
 #ifndef HUFFMAN_H
 #define HUFFMAN_H
