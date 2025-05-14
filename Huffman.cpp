@@ -1,7 +1,4 @@
 // Huffman.cpp
-// niaz hussain
-// log-file compressor & analyzer
-// cst 202 – data structures
 
 #include "Huffman.h"
 #include <queue>
