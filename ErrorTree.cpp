@@ -1,7 +1,4 @@
 // ErrorTree.cpp
-// niaz hussain
-// log-file compressor & analyzer
-// cst 202 – data structures
 
 #include "ErrorTree.h"
 #include <algorithm>
