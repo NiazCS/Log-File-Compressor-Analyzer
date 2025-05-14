@@ -1,0 +1,3 @@
+top error messages:
+ERROR connection lost (2 times)
+ERROR disk failure (1 times)
