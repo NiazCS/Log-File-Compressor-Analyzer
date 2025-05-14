@@ -1,7 +1,4 @@
 // main.cpp
-// niaz hussain
-// log-file compressor & analyzer
-// cst 202 – data structures
 
 #include <iostream>
 #include <fstream>
