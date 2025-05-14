@@ -1,7 +1,4 @@
 // ErrorTree.h
-// niaz hussain
-// log-file compressor & analyzer
-// cst 202 – data structures
 
 #ifndef ERRORTREE_H
 #define ERRORTREE_H
